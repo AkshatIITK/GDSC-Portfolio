@@ -1,0 +1,42 @@
+/* StylishAboutMe.css */
+
+.stylish-about-me {
+    background-color: #f8f8f8; /* Light background color */
+    color: #333; /* Text color */
+    padding: 80px 0;
+    text-align: center;
+}
+
+.stylish-about-me-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.stylish-about-me-title {
+    font-size: 2.5rem;
+    font-weight: var(--font-bold);
+    margin-bottom: 2rem;
+}
+
+.about-me-card {
+    background-color: #fff; /* Card background color */
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    display: flex;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+.about-me-details {
+    flex: 1;
+    padding: 20px;
+}
+
+.about-me-details p {
+    margin-bottom: 1rem;
+}
+
+.about-me-details strong {
+    color: #3498db; /* Strong text color */
+}
+
