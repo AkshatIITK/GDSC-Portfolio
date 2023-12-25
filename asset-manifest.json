@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GDSC-Portfolio/static/css/main.27deedea.css",
+    "main.js": "/GDSC-Portfolio/static/js/main.e4e2631f.js",
+    "static/js/787.7da95b79.chunk.js": "/GDSC-Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/christmas-tree.png": "/GDSC-Portfolio/static/media/christmas-tree.17379f9022bbb62fdf37.png",
+    "static/media/rocket.jpg": "/GDSC-Portfolio/static/media/rocket.d0438373eaf716c0e55c.jpg",
+    "static/media/calculator.png": "/GDSC-Portfolio/static/media/calculator.393111a7685bb8103723.png",
+    "static/media/timetable.png": "/GDSC-Portfolio/static/media/timetable.87ac12e02f6801dba7bd.png",
+    "static/media/reactblog.png": "/GDSC-Portfolio/static/media/reactblog.ab0bfde03e6252675bbf.png",
+    "index.html": "/GDSC-Portfolio/index.html",
+    "main.27deedea.css.map": "/GDSC-Portfolio/static/css/main.27deedea.css.map",
+    "main.e4e2631f.js.map": "/GDSC-Portfolio/static/js/main.e4e2631f.js.map",
+    "787.7da95b79.chunk.js.map": "/GDSC-Portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27deedea.css",
+    "static/js/main.e4e2631f.js"
+  ]
+}
